@@ -4,8 +4,8 @@ Official download place for **Project IGI Studio** (Windows).
 
 | Version | Download | Notes |
 |---|---|---|
-| **2.0.0 — Windows x64** | see [Releases](https://github.com/Sweetcoinss/igi-studio-releases/releases) | installer + portable zip |
-| **2.0.0 — Windows x32 (32-bit CPU / old laptops)** | temp link — [ProjectIGIStudio-Setup-2.0.0-x32.exe](https://litter.catbox.moe/vkk1gz.zip) (zip; expires in 72 h) | for 32-bit Windows 10/11 machines |
+| **2.0.0 — Windows x64** | [Releases](https://github.com/Sweetcoinss/igi-studio-releases/releases) | installer + portable zip |
+| **2.0.0 — Windows x32 (32-bit CPU / old laptops)** | [Releases](https://github.com/Sweetcoinss/igi-studio-releases/releases) — file named **…Windows32bit.exe** | for 32-bit Windows 10/11 machines |
 
 ## Install
 
